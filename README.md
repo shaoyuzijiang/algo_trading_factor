@@ -1,2 +1,2 @@
 # algo_trading_factor
-homework of factor
+plz look at doc.pdf
